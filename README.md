@@ -2,7 +2,9 @@ No desafio proposto pela RocketSeat no curso de desenvolvimento web, a missão e
 Sem perder a qualidade ou a necessidade de mais componentes. 
 
 A ideia é ter o simples e bem feito. 
+
 ![image](https://github.com/user-attachments/assets/2ca8ad77-2afe-4102-9d71-0aae299c7d8b)
+
 
 E deu muito certo.
 Com esse pequeno projeto, utilizei um pouco de HTML que já conhecia e aprendi mais regras e classificações do CSS.
