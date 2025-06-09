@@ -22,4 +22,5 @@ CSS Grid
 O projeto faz parte das aulas introdutórias do curso, para ajudar a facilitar e aplicar o aprendizado. 
 
 Sobre mim: 
+
 Hi, i'm a curious people and i like programing and software development. And this is my first project from here on github.
